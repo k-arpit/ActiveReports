@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report xmlns="http://schemas.microsoft.com/sqlserver/reporting/2005/01/reportdefinition">
+  <dd:Name xmlns:dd="http://schemas.datadynamics.com/reporting/2005/02/reportdefinition">Untitled23.rdlx</dd:Name>
+  <Body>
+    <ColumnSpacing>0in</ColumnSpacing>
+    <Height>1.0417in</Height>
+    <ReportItems>
+      <Line Name="Line1">
+        <Height>1.0417in</Height>
+        <Style>
+          <BorderColor>
+            <Default>Black</Default>
+          </BorderColor>
+          <BorderStyle>
+            <Default>Solid</Default>
+          </BorderStyle>
+          <BorderWidth>
+            <Default>1pt</Default>
+          </BorderWidth>
+        </Style>
+        <Width>2.7917in</Width>
+      </Line>
+    </ReportItems>
+  </Body>
+  <BottomMargin>1in</BottomMargin>
+  <LeftMargin>1in</LeftMargin>
+  <PageHeight>11in</PageHeight>
+  <PageWidth>8.5in</PageWidth>
+  <RightMargin>1in</RightMargin>
+  <TopMargin>1in</TopMargin>
+  <Width>2.7917in</Width>
+  <CustomProperties>
+    <CustomProperty>
+      <Name>Theme</Name>
+      <Value>Cordial.default.rdlx-theme</Value>
+    </CustomProperty>
+    <CustomProperty>
+      <Name>DisplayType</Name>
+      <Value>Page</Value>
+    </CustomProperty>
+    <CustomProperty>
+      <Name>SizeType</Name>
+      <Value>Default</Value>
+    </CustomProperty>
+    <CustomProperty>
+      <Name>PaperOrientation</Name>
+      <Value>Portrait</Value>
+    </CustomProperty>
+  </CustomProperties>
+  <dd:ReportThemes xmlns:dd="http://schemas.datadynamics.com/reporting/2005/02/reportdefinition">
+    <ThemeUri>Cordial.default.rdlx-theme</ThemeUri>
+  </dd:ReportThemes>
+</Report>
